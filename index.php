@@ -2,7 +2,7 @@
 
 use Kirby\Cms\App as Kirby;
 use Kirby\Http\Response;
-use JanHerman\Cookieconsent\Config;
+use JanHerman\CookieConsent\Config;
 
 @include_once __DIR__ . '/vendor/autoload.php';
 

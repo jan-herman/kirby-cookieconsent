@@ -1,6 +1,6 @@
 <?php
 
-namespace JanHerman\Cookieconsent;
+namespace JanHerman\CookieConsent;
 
 class Config
 {
