@@ -52,7 +52,7 @@ Kirby::plugin('jan-herman/cookieconsent', [
     ],
     'routes' => [
         [
-            'pattern' => 'cookieconsent.js',
+            'pattern' => 'cookieconsent-(:num).js',
             'action' => function () {
                 $configuration = Config::get();
 
